@@ -2,10 +2,14 @@
 
  <div align="center">
   <a href="https://github.com/wellfefe">
-    <img height="180em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=wellfefe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wellfefe&layout=compact&langs_count=6&theme=radical" />
+    <img
+      height="180em"
+      src="https://github-stats-extended.vercel.app/api?username=wellfefe&show_icons=true&theme=radical&include_all_commits=true"
+    />
+    <img
+      height="180em"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=wellfefe&layout=compact&langs_count=6&theme=radical"
+    />
   </a>
 </div>
 
