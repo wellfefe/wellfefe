@@ -50,9 +50,9 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
 ## Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/wellington-felipeee/"><img height="31" src="assets/contato/linkedin.svg" alt="LinkedIn de Wellington Felipe" /></a>
-  <a href="mailto:cientistawellfefe@outlook.com"><img height="31" src="assets/contato/envelope.svg" alt="Enviar e-mail para cientistawellfefe@outlook.com" /></a>
-  <a href="https://www.instagram.com/wellfefe/"><img height="31" src="assets/contato/instagram.svg" alt="Instagram @wellfefe" /></a>
+  <a href="https://www.linkedin.com/in/wellington-felipeee/"><img height="31" src="assets/contato/linkedin.svg?v=vermelho" alt="LinkedIn de Wellington Felipe" /></a>
+  <a href="mailto:cientistawellfefe@outlook.com"><img height="31" src="assets/contato/envelope.svg?v=vermelho" alt="Enviar e-mail para cientistawellfefe@outlook.com" /></a>
+  <a href="https://www.instagram.com/wellfefe/"><img height="31" src="assets/contato/instagram.svg?v=vermelho" alt="Instagram @wellfefe" /></a>
 </p>
 
 Para contratar um site, [conheça meus serviços de desenvolvimento web](https://wellingtonfelipe.com.br/).
