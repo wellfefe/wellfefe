@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="32" viewBox="0 0 110 32" role="img" aria-labelledby="title">
+  <title id="title">APIs REST</title>
+  <rect x=".5" y=".5" width="109" height="31" rx="6" fill="#18191e" stroke="#373940"/>
+  <svg x="9" y="6" width="20" height="20" viewBox="0 0 24 24"><g fill="none" stroke="#ff737a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7h16m-4-4 4 4-4 4M21 17H5m4-4-4 4 4 4"/></g></svg>
+  <text x="36" y="21" fill="#f7f5f3" font-family="system-ui,Arial,sans-serif" font-size="14" font-weight="550">APIs REST</text>
+</svg>

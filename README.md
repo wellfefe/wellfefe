@@ -23,15 +23,50 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
 
 ## Tecnologias
 
-<p><img src="https://skillicons.dev/icons?i=react" width="22" align="absmiddle" alt="" /> <strong>Front-end</strong><br />HTML, CSS, JavaScript, TypeScript, React e Bootstrap</p>
+<p>
+  <strong>Front-end</strong><br />
+  <img src="assets/tecnologias/html.svg" alt="HTML" />
+  <img src="assets/tecnologias/css.svg" alt="CSS" />
+  <img src="assets/tecnologias/javascript.svg" alt="JavaScript" />
+  <img src="assets/tecnologias/typescript.svg" alt="TypeScript" />
+  <img src="assets/tecnologias/react.svg" alt="React" />
+  <img src="assets/tecnologias/bootstrap.svg" alt="Bootstrap" />
+</p>
 
-<p><img src="https://skillicons.dev/icons?i=nestjs" width="22" align="absmiddle" alt="" /> <strong>Back-end e dados</strong><br />Node.js, NestJS, APIs REST, SQL, PostgreSQL e Prisma</p>
+<p>
+  <strong>Back-end</strong><br />
+  <img src="assets/tecnologias/nodejs.svg" alt="Node.js" />
+  <img src="assets/tecnologias/nestjs.svg" alt="NestJS" />
+  <img src="assets/tecnologias/api-rest.svg" alt="APIs REST" />
+</p>
 
-<p><img src="https://cdn.simpleicons.org/expo/FF5058" width="22" align="absmiddle" alt="" /> <strong>Mobile</strong><br />React Native e Expo</p>
+<p>
+  <strong>Dados</strong><br />
+  <img src="assets/tecnologias/sql.svg" alt="SQL" />
+  <img src="assets/tecnologias/postgresql.svg" alt="PostgreSQL" />
+  <img src="assets/tecnologias/prisma.svg" alt="Prisma" />
+</p>
 
-<p><img src="https://skillicons.dev/icons?i=wordpress" width="22" align="absmiddle" alt="" /> <strong>Sites</strong><br />WordPress e PHP</p>
+<p>
+  <strong>Mobile</strong><br />
+  <img src="assets/tecnologias/react-native.svg" alt="React Native" />
+  <img src="assets/tecnologias/expo.svg" alt="Expo" />
+</p>
 
-<p><img src="https://skillicons.dev/icons?i=git" width="22" align="absmiddle" alt="" /> <strong>Outras linguagens e ferramentas</strong><br />Python, Java, C, C++ e Git</p>
+<p>
+  <strong>Sites</strong><br />
+  <img src="assets/tecnologias/wordpress.svg" alt="WordPress" />
+  <img src="assets/tecnologias/php.svg" alt="PHP" />
+</p>
+
+<p>
+  <strong>Outras linguagens e ferramentas</strong><br />
+  <img src="assets/tecnologias/python.svg" alt="Python" />
+  <img src="assets/tecnologias/java.svg" alt="Java" />
+  <img src="assets/tecnologias/c.svg" alt="C" />
+  <img src="assets/tecnologias/cpp.svg" alt="C++" />
+  <img src="assets/tecnologias/git.svg" alt="Git" />
+</p>
 
 <details>
 <summary>Atividade no GitHub</summary>
