@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="217" height="30" viewBox="0 0 217 30" role="img" aria-label="Sequência de contribuições">
+  <rect x=".5" y=".5" width="216" height="29" rx="6" fill="#18191e" stroke="#553038"/>
+  <text x="10" y="20" font-family="system-ui,Arial,sans-serif" font-size="14" font-weight="550" fill="#ff858b">Sequência de contribuições</text>
+  <path transform="translate(198 10)" d="M0 9 9 0M2 0h7v7" fill="none" stroke="#ff858b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

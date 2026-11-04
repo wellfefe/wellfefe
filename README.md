@@ -68,7 +68,7 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
   <img src="assets/tecnologias/git.svg" alt="Git" />
 </p>
 
-<details>
+<details open>
 <summary>Atividade no GitHub</summary>
 
 <p align="center">
@@ -78,7 +78,10 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
 
 <p align="center"><img src="assets/snake.svg" width="100%" alt="Snake animada percorrendo o calendário de contribuições" /></p>
 
-[Sequência de contribuições](https://github.com/wellfefe/wellfefe/blob/main/assets/streak.svg) · [Conquistas no GitHub](https://github.com/wellfefe?tab=achievements)
+<p>
+  <a href="https://github.com/wellfefe/wellfefe/blob/main/assets/streak.svg"><img src="assets/atividade/sequencia.svg" alt="Sequência de contribuições" /></a>
+  <a href="https://github.com/wellfefe?tab=achievements"><img src="assets/atividade/conquistas.svg" alt="Conquistas no GitHub" /></a>
+</p>
 
 </details>
 
