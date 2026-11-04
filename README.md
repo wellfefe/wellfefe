@@ -79,6 +79,7 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu <a href="https://po
 
 <p>
   <a href="https://github.com/wellfefe/wellfefe/blob/main/assets/streak.svg"><img src="assets/links/sequencia.svg" align="absmiddle" alt="Sequência de contribuições" /></a>
+  &ensp;&ensp;
   <a href="https://github.com/wellfefe?tab=achievements"><img src="assets/links/conquistas.svg" align="absmiddle" alt="Conquistas no GitHub" /></a>
 </p>
 
