@@ -9,15 +9,15 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
 <table>
   <tr>
     <td width="30%" align="center"><a href="https://raw.githubusercontent.com/wellfefe/Cinema-Completo/main/assets/home.png"><img src="https://raw.githubusercontent.com/wellfefe/Cinema-Completo/main/assets/home.png" width="100%" alt="Painel de administração do CineWeb" /></a></td>
-    <td><strong><a href="https://github.com/wellfefe/Cinema-Completo">CineWeb + Cinema Mobile</a></strong><br />O painel web organiza as sessões. No aplicativo, o cliente escolhe o assento e pode consultar o ingresso mesmo sem internet.<br /><sub>React · NestJS · PostgreSQL · Expo</sub></td>
+    <td><strong><a href="https://github.com/wellfefe/Cinema-Completo">CineWeb + Cinema Mobile</a></strong><br />O painel web organiza as sessões. No aplicativo, o cliente escolhe o assento e pode consultar o ingresso mesmo sem internet.<br /><img src="assets/tecnologias/react.svg" height="25" alt="React" /> <img src="assets/tecnologias/nestjs.svg" height="25" alt="NestJS" /> <img src="assets/tecnologias/postgresql.svg" height="25" alt="PostgreSQL" /> <img src="assets/tecnologias/expo.svg" height="25" alt="Expo" /></td>
   </tr>
   <tr>
     <td width="30%" align="center"><a href="assets/leapy.png"><img src="assets/leapy.png" width="100%" alt="Campo de pergunta do Assistente Leapy" /></a></td>
-    <td><strong><a href="https://github.com/wellfefe/leapy-cs-assistant">Assistente de CS</a></strong><br />O time de atendimento faz uma pergunta e recebe a resposta junto com o trecho da documentação que a fundamenta.<br /><sub>React · TypeScript · NestJS</sub></td>
+    <td><strong><a href="https://github.com/wellfefe/leapy-cs-assistant">Assistente de CS</a></strong><br />O time de atendimento faz uma pergunta e recebe a resposta junto com o trecho da documentação que a fundamenta.<br /><img src="assets/tecnologias/react.svg" height="25" alt="React" /> <img src="assets/tecnologias/typescript.svg" height="25" alt="TypeScript" /> <img src="assets/tecnologias/nestjs.svg" height="25" alt="NestJS" /></td>
   </tr>
   <tr>
     <td width="30%" align="center"><a href="assets/cowork.png"><img src="assets/cowork.png" width="100%" alt="Cadastro de usuários no Cowork" /></a></td>
-    <td><strong><a href="https://github.com/wellfefe/Coworking">Cowork</a></strong><br />Antes de confirmar uma reserva de sala, o serviço de reservas consulta o cadastro de usuários. A interface reúne as duas operações.<br /><sub>React · Java · Spring Boot</sub></td>
+    <td><strong><a href="https://github.com/wellfefe/Coworking">Cowork</a></strong><br />Antes de confirmar uma reserva de sala, o serviço de reservas consulta o cadastro de usuários. A interface reúne as duas operações.<br /><img src="assets/tecnologias/react.svg" height="25" alt="React" /> <img src="assets/tecnologias/java.svg" height="25" alt="Java" /> <img src="assets/tecnologias/spring-boot.svg" height="25" alt="Spring Boot" /></td>
   </tr>
 </table>
 
@@ -68,8 +68,7 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
   <img src="assets/tecnologias/git.svg" alt="Git" />
 </p>
 
-<details open>
-<summary>Atividade no GitHub</summary>
+---
 
 <p align="center">
   <img src="assets/stats.svg" height="140" align="top" alt="Estatísticas dos repositórios públicos" />
@@ -82,8 +81,6 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
   <a href="https://github.com/wellfefe/wellfefe/blob/main/assets/streak.svg"><img src="assets/atividade/sequencia.svg" alt="Sequência de contribuições" /></a>
   <a href="https://github.com/wellfefe?tab=achievements"><img src="assets/atividade/conquistas.svg" alt="Conquistas no GitHub" /></a>
 </p>
-
-</details>
 
 ## Contato
 
