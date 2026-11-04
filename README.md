@@ -26,13 +26,9 @@
 
 ## Sobre mim
 
-Sou **Wellington Felipe**, desenvolvedor Full Stack com interesse especial em front-end. Gosto de desenvolver aplicações web e interfaces que tornem as tarefas mais simples para clientes e usuários.
+Sou **Wellington Felipe**, desenvolvedor Full Stack com interesse especial em front-end. Gosto de criar aplicações web e interfaces que simplifiquem as tarefas de clientes e usuários.
 
-Busco uma oportunidade em desenvolvimento Full Stack para contribuir com projetos, aprender com outras pessoas e aprofundar minha experiência na construção de aplicações completas.
-
-Meu objetivo é construir uma base técnica sólida: entender as decisões por trás do código, integrar bem interface, API e banco de dados e evoluir na qualidade do que entrego.
-
-**Meu foco:** interfaces claras, aplicações úteis e evolução técnica com prática.
+Busco uma oportunidade Full Stack para contribuir com projetos e aprender com a equipe. Quero aprofundar minha base técnica, entender as decisões por trás do código e evoluir na integração entre interface, API e banco de dados.
 
 ## Tecnologias
 
@@ -74,6 +70,7 @@ Ferramentas e tecnologias que fazem parte dos meus estudos e projetos.
   <tr>
     <td>
       <h3>01 / CineWeb + Cinema Mobile</h3>
+      <a href="https://github.com/wellfefe/Cinema-Completo"><img width="100%" src="https://raw.githubusercontent.com/wellfefe/Cinema-Completo/main/assets/home.png" alt="Tela inicial do painel CineWeb" /></a>
       <p><strong>Uma aplicação, três frentes: API, painel web e aplicativo.</strong></p>
       <p>
         Projeto acadêmico para gerenciamento de cinema e compra de ingressos.
@@ -98,6 +95,7 @@ Ferramentas e tecnologias que fazem parte dos meus estudos e projetos.
   <tr>
     <td>
       <h3>02 / Assistente de CS</h3>
+      <a href="https://github.com/wellfefe/leapy-cs-assistant"><img width="100%" src="assets/leapy.png" alt="Interface do Assistente Leapy para consulta à documentação" /></a>
       <p><strong>Respostas acompanhadas da fonte.</strong></p>
       <p>
         Desenvolvido para um desafio técnico da Leapy. Consulta uma base
@@ -121,6 +119,7 @@ Ferramentas e tecnologias que fazem parte dos meus estudos e projetos.
   <tr>
     <td>
       <h3>03 / Cowork Microservices</h3>
+      <a href="https://github.com/wellfefe/Coworking"><img width="100%" src="assets/cowork.png" alt="Interface de cadastro de usuários do Coworking" /></a>
       <p><strong>Reservas e usuários em serviços separados.</strong></p>
       <p>
         Sistema de gerenciamento de coworking com interface React e dois
@@ -152,36 +151,38 @@ Ferramentas e tecnologias que fazem parte dos meus estudos e projetos.
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wellfefe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=C9D1D9&border_radius=8&locale=pt-br" alt="Estatísticas públicas de Wellington Felipe no GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellfefe&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=C9D1D9&border_radius=8&locale=pt-br" alt="Linguagens mais presentes nos repositórios públicos" />
+  <img width="49%" src="assets/stats.svg" alt="Estatísticas públicas de Wellington Felipe no GitHub" />
+  <img width="49%" src="assets/languages.svg" alt="Linguagens mais presentes nos repositórios públicos" />
 
   <br /><br />
 
-  <img width="75%" src="https://streak-stats.demolab.com?user=wellfefe&locale=pt_BR&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=C9D1D9&currStreakNum=F0F3F6&sideNums=F0F3F6&dates=8B949E" alt="Sequência de contribuições no GitHub" />
+  <img width="75%" src="assets/streak.svg" alt="Sequência de contribuições no GitHub" />
 
   <br /><br />
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wellfefe&bg_color=0D1117&color=C9D1D9&line=EF4444&point=F0F3F6&area=true&area_color=EF4444&hide_border=true&custom_title=Contribuicoes%20recentes" alt="Gráfico de contribuições recentes" />
+  <img width="100%" src="assets/activity.svg" alt="Histórico de contribuições no GitHub" />
 
 </div>
 
-<sub>Os painéis são gerados por serviços externos e podem ficar indisponíveis. A distribuição de linguagens representa o código analisado nos repositórios, não o nível de domínio de cada tecnologia.</sub>
+<sub>Painéis atualizados diariamente, mantendo a última imagem válida em caso de indisponibilidade. As linguagens refletem o código analisado nos repositórios públicos, não o nível de domínio de cada tecnologia.</sub>
 
 <details>
-  <summary><strong>Troféus do GitHub</strong></summary>
+  <summary><strong>Conquistas do GitHub</strong></summary>
 
-  <br />
-
-  <p align="center">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=wellfefe&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="Troféus de atividade do GitHub" />
+  <p>
+    <a href="https://github.com/wellfefe?achievement=pull-shark&tab=achievements">
+      <img src="https://img.shields.io/badge/GitHub-Pull_Shark-161B22?style=for-the-badge&logo=github&logoColor=EF4444" alt="Conquista Pull Shark no GitHub" />
+    </a>
   </p>
+
+  <a href="https://github.com/wellfefe?tab=achievements">Ver conquistas no GitHub →</a>
 
 </details>
 
 ## Cada contribuição conta
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/wellfefe/wellfefe/output/github-contribution-grid-snake.svg" alt="Animação Snake percorrendo o histórico de contribuições" />
+  <img width="100%" src="assets/snake.svg" alt="Animação Snake percorrendo o histórico de contribuições" />
 </p>
 
 ---
@@ -206,62 +207,3 @@ Ferramentas e tecnologias que fazem parte dos meus estudos e projetos.
   <sub>Da interface aos dados, com atenção a quem usa.</sub>
 
 </div>
-
-<!--
-CONFIGURAÇÃO DA SNAKE — este comentário não aparece no perfil.
-
-Colar apenas o README não ativa a animação.
-
-No repositório wellfefe/wellfefe:
-1. Crie o arquivo .github/workflows/snake.yml.
-2. Copie o YAML abaixo para esse arquivo, sem as marcações de comentário.
-3. Salve na branch main.
-4. Abra Actions > Generate contribution snake > Run workflow.
-5. Após uma execução bem-sucedida, o SVG estará na branch output.
-   A animação é atualizada diariamente. Não é necessário criar um token pessoal.
-
-Conteúdo de .github/workflows/snake.yml:
-
-name: Generate contribution snake
-
-on:
-  schedule:
-    - cron: "0 6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/snake.yml"
-
-permissions:
-  contents: write
-
-concurrency:
-  group: contribution-snake
-  cancel-in-progress: false
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#ef4444&color_dots=#161b22,#451a1a,#7f1d1d,#b91c1c,#ef4444
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
--->
