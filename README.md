@@ -23,20 +23,15 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
 
 ## Tecnologias
 
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,nestjs,postgres,prisma&theme=dark" width="240" alt="TypeScript, React, Node.js, NestJS, PostgreSQL e Prisma" />
+<p><img src="https://skillicons.dev/icons?i=react" width="22" align="absmiddle" alt="" /> <strong>Front-end</strong><br />HTML, CSS, JavaScript, TypeScript, React e Bootstrap</p>
 
-<details>
-<summary>Ver tecnologias por área</summary>
+<p><img src="https://skillicons.dev/icons?i=nestjs" width="22" align="absmiddle" alt="" /> <strong>Back-end e dados</strong><br />Node.js, NestJS, APIs REST, SQL, PostgreSQL e Prisma</p>
 
-| Área | Tecnologias que uso ou estudo |
-| --- | --- |
-| Interfaces | HTML, CSS, JavaScript, TypeScript, React e Bootstrap |
-| APIs e dados | Node.js, NestJS, APIs REST, SQL, PostgreSQL e Prisma |
-| Mobile | React Native e Expo |
-| Sites | WordPress e PHP |
-| Outras linguagens e ferramentas | Python, Java, C, C++ e Git |
+<p><img src="https://cdn.simpleicons.org/expo/FF5058" width="22" align="absmiddle" alt="" /> <strong>Mobile</strong><br />React Native e Expo</p>
 
-</details>
+<p><img src="https://skillicons.dev/icons?i=wordpress" width="22" align="absmiddle" alt="" /> <strong>Sites</strong><br />WordPress e PHP</p>
+
+<p><img src="https://skillicons.dev/icons?i=git" width="22" align="absmiddle" alt="" /> <strong>Outras linguagens e ferramentas</strong><br />Python, Java, C, C++ e Git</p>
 
 <details>
 <summary>Atividade no GitHub</summary>
