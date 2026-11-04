@@ -68,7 +68,7 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
   <img src="assets/tecnologias/git.svg" alt="Git" />
 </p>
 
----
+## Trilha de contribuições
 
 <p align="center">
   <img src="assets/stats.svg" height="140" align="top" alt="Estatísticas dos repositórios públicos" />
