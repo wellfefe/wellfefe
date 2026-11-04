@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="148" viewBox="0 0 760 148" role="img" aria-labelledby="title desc">
+  <title id="title">Wellington Felipe</title>
+  <desc id="desc">Desenvolvedor Full Stack. Monograma WF desenhado em vermelho.</desc>
+  <style>
+    .reveal { animation: type 1.5s steps(23,end) both; }
+    @keyframes type { from { width: 0; } to { width: 340px; } }
+    @media (prefers-reduced-motion: reduce) { .reveal { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="line"><rect class="reveal" width="340" height="35"/></clipPath>
+  </defs>
+  <rect width="760" height="148" rx="10" fill="#111216"/>
+  <path d="M35 27h32" stroke="#ff5058" stroke-width="3"/>
+  <text x="32" y="83" font-family="system-ui,Arial,sans-serif" font-size="51" font-weight="650" letter-spacing="-2" fill="#f7f5f3">Wellington Felipe</text>
+  <g transform="translate(35 99)" clip-path="url(#line)">
+    <text y="21" font-family="ui-monospace,Consolas,monospace" font-size="21" fill="#ff747a">Desenvolvedor Full Stack</text>
+  </g>
+  <g transform="translate(572 37)" fill="none" stroke-linejoin="round" stroke-linecap="square" stroke-width="7">
+    <path d="m0 6 20 60 21-42 19 42 21-60" stroke="#ff5058"/>
+    <path d="M94 66V6h48m-48 27h34" stroke="#f7f5f3"/>
+  </g>
+</svg>
