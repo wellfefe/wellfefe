@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="148" viewBox="0 0 760 148" role="img" aria-labelledby="title desc">
   <title id="title">Wellington Felipe</title>
-  <desc id="desc">Desenvolvedor Full Stack · Software Engineer · Desenvolvedor Web · Arquiteto de Software. Monograma WF.</desc>
+  <desc id="desc">Desenvolvedor Full Stack · Software Engineer · Desenvolvedor Web. Monograma WF.</desc>
   <style>
-    .role { visibility:hidden; animation:slot 18s step-end var(--delay) infinite; }
-    .cover { animation:typing 18s steps(var(--chars),end) var(--delay) infinite; }
-    @keyframes slot { 0% { visibility:visible; } 25%,100% { visibility:hidden; } }
+    .role { visibility:hidden; animation:slot 13.5s step-end var(--delay) infinite; }
+    .cover { animation:typing 13.5s steps(var(--chars),end) var(--delay) infinite; }
+    @keyframes slot { 0% { visibility:visible; } 33.333333%,100% { visibility:hidden; } }
     @keyframes typing {
-      0%,23%,100% { transform:translateX(0); }
-      9%,17% { transform:translateX(var(--end)); }
+      0%,30.666667%,100% { transform:translateX(0); }
+      12%,22.666667% { transform:translateX(var(--end)); }
     }
     @media (prefers-reduced-motion: reduce) {
       .role { animation:none; }
@@ -30,10 +30,6 @@
     </g>
     <g class="role" style="--delay:9s;--chars:17;--end:214.2px">
       <text y="21" textLength="214.2" lengthAdjust="spacingAndGlyphs">Desenvolvedor Web</text>
-      <g class="cover"><rect width="360" height="30" fill="#111216"/><path d="M1 2v22" stroke="#ff5058" stroke-width="2"/></g>
-    </g>
-    <g class="role" style="--delay:13.5s;--chars:21;--end:264.6px">
-      <text y="21" textLength="264.6" lengthAdjust="spacingAndGlyphs">Arquiteto de Software</text>
       <g class="cover"><rect width="360" height="30" fill="#111216"/><path d="M1 2v22" stroke="#ff5058" stroke-width="2"/></g>
     </g>
   </g>
