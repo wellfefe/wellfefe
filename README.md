@@ -8,15 +8,15 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
 
 <table>
   <tr>
-    <td width="30%" align="center"><a href="https://github.com/wellfefe/Cinema-Completo"><img src="https://raw.githubusercontent.com/wellfefe/Cinema-Completo/main/assets/home.png" width="100%" alt="Painel de administração do CineWeb" /></a></td>
+    <td width="30%" align="center"><a href="https://raw.githubusercontent.com/wellfefe/Cinema-Completo/main/assets/home.png"><img src="https://raw.githubusercontent.com/wellfefe/Cinema-Completo/main/assets/home.png" width="100%" alt="Painel de administração do CineWeb" /></a></td>
     <td><strong><a href="https://github.com/wellfefe/Cinema-Completo">CineWeb + Cinema Mobile</a></strong><br />O painel web organiza as sessões. No aplicativo, o cliente escolhe o assento e pode consultar o ingresso mesmo sem internet.<br /><sub>React · NestJS · PostgreSQL · Expo</sub></td>
   </tr>
   <tr>
-    <td width="30%" align="center"><a href="https://github.com/wellfefe/leapy-cs-assistant"><img src="assets/leapy.png" width="100%" alt="Campo de pergunta do Assistente Leapy" /></a></td>
+    <td width="30%" align="center"><a href="assets/leapy.png"><img src="assets/leapy.png" width="100%" alt="Campo de pergunta do Assistente Leapy" /></a></td>
     <td><strong><a href="https://github.com/wellfefe/leapy-cs-assistant">Assistente de CS</a></strong><br />O time de atendimento faz uma pergunta e recebe a resposta junto com o trecho da documentação que a fundamenta.<br /><sub>React · TypeScript · NestJS</sub></td>
   </tr>
   <tr>
-    <td width="30%" align="center"><a href="https://github.com/wellfefe/Coworking"><img src="assets/cowork.png" width="100%" alt="Cadastro de usuários no Cowork" /></a></td>
+    <td width="30%" align="center"><a href="assets/cowork.png"><img src="assets/cowork.png" width="100%" alt="Cadastro de usuários no Cowork" /></a></td>
     <td><strong><a href="https://github.com/wellfefe/Coworking">Cowork</a></strong><br />Antes de confirmar uma reserva de sala, o serviço de reservas consulta o cadastro de usuários. A interface reúne as duas operações.<br /><sub>React · Java · Spring Boot</sub></td>
   </tr>
 </table>
@@ -54,5 +54,10 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
 
 ## Contato
 
-**Para oportunidades** · [LinkedIn](https://www.linkedin.com/in/wellington-felipeee/) · [cientistawellfefe@outlook.com](mailto:cientistawellfefe@outlook.com)  
-**Para contratar um site** · [Serviços de desenvolvimento web](https://wellingtonfelipe.com.br/)
+<p>
+  <a href="https://www.linkedin.com/in/wellington-felipeee/"><img height="31" src="assets/contato/linkedin.svg" alt="LinkedIn de Wellington Felipe" /></a>
+  <a href="mailto:cientistawellfefe@outlook.com"><img height="31" src="assets/contato/envelope.svg" alt="Enviar e-mail para cientistawellfefe@outlook.com" /></a>
+  <a href="https://www.instagram.com/wellfefe/"><img height="31" src="assets/contato/instagram.svg" alt="Instagram @wellfefe" /></a>
+</p>
+
+Para contratar um site, [conheça meus serviços de desenvolvimento web](https://wellingtonfelipe.com.br/).
