@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="22" viewBox="0 0 158 22" role="img" aria-label="Conquistas no GitHub">
+  <title>Conquistas no GitHub</title>
+  <style>
+    svg { color:#c72f40; }
+    @media (prefers-color-scheme:dark) { svg { color:#ff7781; } }
+    @media (prefers-reduced-motion:no-preference) {
+      path { stroke-dasharray:1; animation:underline .28s ease-out; }
+      @keyframes underline { from { stroke-dashoffset:.8; } to { stroke-dashoffset:0; } }
+    }
+  </style>
+  <text x="1" y="16" font-family="system-ui,Arial,sans-serif" font-size="16" font-weight="400" textLength="156" lengthAdjust="spacingAndGlyphs" fill="currentColor">Conquistas no GitHub</text>
+  <path d="M1 19H157" pathLength="1" fill="none" stroke="currentColor" stroke-width="1"/>
+</svg>

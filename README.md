@@ -2,22 +2,22 @@
 
 Gosto de construir aplicações web pensando em quem vai usá-las. O front-end é a parte que mais me atrai, especialmente quando uma decisão na interface facilita uma tarefa que parecia complicada.
 
-Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profissional](https://portfolio.wellingtonfelipe.com.br/)**, você encontra meu currículo, minha trajetória e o trabalho que desenvolvi para o portal Goiás de Norte a Sul.
+Busco uma oportunidade em desenvolvimento Full Stack. No meu <a href="https://portfolio.wellingtonfelipe.com.br/"><img src="assets/links/portfolio.svg" align="absmiddle" alt="portfólio profissional" /></a>, você encontra meu currículo, minha trajetória e o trabalho que desenvolvi para o portal Goiás de Norte a Sul.
 
 ## Projetos
 
 <table>
   <tr>
     <td width="30%" align="center"><a href="https://raw.githubusercontent.com/wellfefe/Cinema-Completo/main/assets/home.png"><img src="https://raw.githubusercontent.com/wellfefe/Cinema-Completo/main/assets/home.png" width="100%" alt="Painel de administração do CineWeb" /></a></td>
-    <td><strong><a href="https://github.com/wellfefe/Cinema-Completo">CineWeb + Cinema Mobile</a></strong><br />O painel web organiza as sessões. No aplicativo, o cliente escolhe o assento e pode consultar o ingresso mesmo sem internet.<br /><img src="assets/tecnologias/react.svg" height="25" alt="React" /> <img src="assets/tecnologias/nestjs.svg" height="25" alt="NestJS" /> <img src="assets/tecnologias/postgresql.svg" height="25" alt="PostgreSQL" /> <img src="assets/tecnologias/expo.svg" height="25" alt="Expo" /></td>
+    <td><a href="https://github.com/wellfefe/Cinema-Completo"><img src="assets/links/cineweb.svg" align="absmiddle" alt="CineWeb + Cinema Mobile" /></a><br />O painel web organiza as sessões. No aplicativo, o cliente escolhe o assento e pode consultar o ingresso mesmo sem internet.<br /><img src="assets/tecnologias/react.svg" height="25" alt="React" /> <img src="assets/tecnologias/nestjs.svg" height="25" alt="NestJS" /> <img src="assets/tecnologias/postgresql.svg" height="25" alt="PostgreSQL" /> <img src="assets/tecnologias/expo.svg" height="25" alt="Expo" /></td>
   </tr>
   <tr>
     <td width="30%" align="center"><a href="assets/leapy.png"><img src="assets/leapy.png" width="100%" alt="Campo de pergunta do Assistente Leapy" /></a></td>
-    <td><strong><a href="https://github.com/wellfefe/leapy-cs-assistant">Assistente de CS</a></strong><br />O time de atendimento faz uma pergunta e recebe a resposta junto com o trecho da documentação que a fundamenta.<br /><img src="assets/tecnologias/react.svg" height="25" alt="React" /> <img src="assets/tecnologias/typescript.svg" height="25" alt="TypeScript" /> <img src="assets/tecnologias/nestjs.svg" height="25" alt="NestJS" /></td>
+    <td><a href="https://github.com/wellfefe/leapy-cs-assistant"><img src="assets/links/assistente.svg" align="absmiddle" alt="Assistente de CS" /></a><br />O time de atendimento faz uma pergunta e recebe a resposta junto com o trecho da documentação que a fundamenta.<br /><img src="assets/tecnologias/react.svg" height="25" alt="React" /> <img src="assets/tecnologias/typescript.svg" height="25" alt="TypeScript" /> <img src="assets/tecnologias/nestjs.svg" height="25" alt="NestJS" /></td>
   </tr>
   <tr>
     <td width="30%" align="center"><a href="assets/cowork.png"><img src="assets/cowork.png" width="100%" alt="Cadastro de usuários no Cowork" /></a></td>
-    <td><strong><a href="https://github.com/wellfefe/Coworking">Cowork</a></strong><br />Antes de confirmar uma reserva de sala, o serviço de reservas consulta o cadastro de usuários. A interface reúne as duas operações.<br /><img src="assets/tecnologias/react.svg" height="25" alt="React" /> <img src="assets/tecnologias/java.svg" height="25" alt="Java" /> <img src="assets/tecnologias/spring-boot.svg" height="25" alt="Spring Boot" /></td>
+    <td><a href="https://github.com/wellfefe/Coworking"><img src="assets/links/cowork.svg" align="absmiddle" alt="Cowork" /></a><br />Antes de confirmar uma reserva de sala, o serviço de reservas consulta o cadastro de usuários. A interface reúne as duas operações.<br /><img src="assets/tecnologias/react.svg" height="25" alt="React" /> <img src="assets/tecnologias/java.svg" height="25" alt="Java" /> <img src="assets/tecnologias/spring-boot.svg" height="25" alt="Spring Boot" /></td>
   </tr>
 </table>
 
@@ -78,8 +78,8 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
 <p align="center"><img src="assets/snake.svg" width="100%" alt="Snake animada percorrendo o calendário de contribuições" /></p>
 
 <p>
-  <a href="https://github.com/wellfefe/wellfefe/blob/main/assets/streak.svg"><img src="assets/atividade/sequencia.svg" alt="Sequência de contribuições" /></a>
-  <a href="https://github.com/wellfefe?tab=achievements"><img src="assets/atividade/conquistas.svg" alt="Conquistas no GitHub" /></a>
+  <a href="https://github.com/wellfefe/wellfefe/blob/main/assets/streak.svg"><img src="assets/links/sequencia.svg" align="absmiddle" alt="Sequência de contribuições" /></a>
+  <a href="https://github.com/wellfefe?tab=achievements"><img src="assets/links/conquistas.svg" align="absmiddle" alt="Conquistas no GitHub" /></a>
 </p>
 
 ## Contato
@@ -90,4 +90,4 @@ Busco uma oportunidade em desenvolvimento Full Stack. No meu **[portfólio profi
   <a href="https://www.instagram.com/wellfefe/"><img height="31" src="https://raw.githubusercontent.com/wellfefe/wellfefe/c2cc8f9b5d4d7b6bd3cfb2a2bf7d57734f2b1f9e/assets/contato/instagram.svg" alt="Instagram @wellfefe" /></a>
 </p>
 
-Para contratar um site, [conheça meus serviços de desenvolvimento web](https://wellingtonfelipe.com.br/).
+Para contratar um site, <a href="https://wellingtonfelipe.com.br/"><img src="assets/links/servicos.svg" align="absmiddle" alt="conheça meus serviços" /></a>.
